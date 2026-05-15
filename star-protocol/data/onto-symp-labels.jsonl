@@ -1,0 +1,1019 @@
+{"id": "SYMP:0000000", "label": "cellulitis"}
+{"id": "SYMP:0000001", "label": "abdominal cramp"}
+{"id": "SYMP:0000002", "label": "abdominal distention"}
+{"id": "SYMP:0000003", "label": "obsolete acute enteritis in newborns"}
+{"id": "SYMP:0000004", "label": "obsolete arrested moulting"}
+{"id": "SYMP:0000005", "label": "ataxia"}
+{"id": "SYMP:0000006", "label": "backache"}
+{"id": "SYMP:0000007", "label": "bleeding"}
+{"id": "SYMP:0000008", "label": "blindness"}
+{"id": "SYMP:0000009", "label": "blister"}
+{"id": "SYMP:0000010", "label": "obsolete bloody diarrhea"}
+{"id": "SYMP:0000011", "label": "obsolete bloody exudate"}
+{"id": "SYMP:0000012", "label": "blurred vision"}
+{"id": "SYMP:0000013", "label": "obsolete capillary leakage"}
+{"id": "SYMP:0000014", "label": "obsolete cardiomyocyte destruction"}
+{"id": "SYMP:0000015", "label": "giddiness"}
+{"id": "SYMP:0000016", "label": "confusion"}
+{"id": "SYMP:0000017", "label": "crinkle"}
+{"id": "SYMP:0000018", "label": "darkening of skin"}
+{"id": "SYMP:0000019", "label": "deafness"}
+{"id": "SYMP:0000020", "label": "dehydration"}
+{"id": "SYMP:0000021", "label": "delirium"}
+{"id": "SYMP:0000022", "label": "depression"}
+{"id": "SYMP:0000023", "label": "disorientation"}
+{"id": "SYMP:0000024", "label": "drowsiness"}
+{"id": "SYMP:0000025", "label": "dry cough"}
+{"id": "SYMP:0000026", "label": "obsolete epidermal proliferation"}
+{"id": "SYMP:0000027", "label": "obsolete excess mucus in bronchi"}
+{"id": "SYMP:0000028", "label": "obsolete exophthalmia"}
+{"id": "SYMP:0000029", "label": "obsolete feather loss"}
+{"id": "SYMP:0000030", "label": "paralysis"}
+{"id": "SYMP:0000031", "label": "obsolete flaccid limb paralysis"}
+{"id": "SYMP:0000032", "label": "flaccidity"}
+{"id": "SYMP:0000033", "label": "flat keratotic capsule"}
+{"id": "SYMP:0000034", "label": "obsolete fluid in pericardial sac"}
+{"id": "SYMP:0000035", "label": "obsolete fragile bones"}
+{"id": "SYMP:0000036", "label": "hemorrhagic gastroenteritis"}
+{"id": "SYMP:0000037", "label": "obsolete catarrhal enteritis"}
+{"id": "SYMP:0000038", "label": "dyspneic enteritis"}
+{"id": "SYMP:0000039", "label": "enteritis"}
+{"id": "SYMP:0000040", "label": "hematuria"}
+{"id": "SYMP:0000041", "label": "hemorrhage"}
+{"id": "SYMP:0000042", "label": "obsolete hemorrhagic enteritis"}
+{"id": "SYMP:0000043", "label": "obsolete hemorrhagic meningitis"}
+{"id": "SYMP:0000044", "label": "obsolete hemorrhagic thoracic lymphadenitis"}
+{"id": "SYMP:0000045", "label": "hepatic necrosis"}
+{"id": "SYMP:0000046", "label": "hepatitis"}
+{"id": "SYMP:0000047", "label": "hepatosplenomegaly"}
+{"id": "SYMP:0000048", "label": "obsolete high fever"}
+{"id": "SYMP:0000049", "label": "obsolete hind limb paralysis"}
+{"id": "SYMP:0000050", "label": "obsolete hunched posture"}
+{"id": "SYMP:0000051", "label": "hydrocephalus"}
+{"id": "SYMP:0000052", "label": "obsolete hyperemic liver"}
+{"id": "SYMP:0000053", "label": "obsolete hyperemic spleen"}
+{"id": "SYMP:0000054", "label": "hypergammaglobulinemia"}
+{"id": "SYMP:0000055", "label": "obsolete hyperkeratotic plaques of surface of foot"}
+{"id": "SYMP:0000056", "label": "hyperpigmentation"}
+{"id": "SYMP:0000057", "label": "obsolete hyperplastic alveolar nodules"}
+{"id": "SYMP:0000058", "label": "hyperreflexia"}
+{"id": "SYMP:0000059", "label": "hypotension"}
+{"id": "SYMP:0000060", "label": "obsolete ill-thrift"}
+{"id": "SYMP:0000061", "label": "inflammation"}
+{"id": "SYMP:0000062", "label": "obsolete inflammation of meninges"}
+{"id": "SYMP:0000063", "label": "intestinal hemorrhage"}
+{"id": "SYMP:0000064", "label": "joint pain"}
+{"id": "SYMP:0000065", "label": "obsolete joint swelling"}
+{"id": "SYMP:0000066", "label": "keratotic nodules of the skin"}
+{"id": "SYMP:0000067", "label": "obsolete lameness"}
+{"id": "SYMP:0000068", "label": "laryngitis"}
+{"id": "SYMP:0000069", "label": "laryngotracheitis"}
+{"id": "SYMP:0000070", "label": "lesions in myocardium"}
+{"id": "SYMP:0000071", "label": "obsolete lesions in respiratory tract"}
+{"id": "SYMP:0000072", "label": "obsolete lesions in spleen"}
+{"id": "SYMP:0000073", "label": "obsolete lesions in thymus"}
+{"id": "SYMP:0000074", "label": "obsolete lesions in swim bladder"}
+{"id": "SYMP:0000075", "label": "lethargy"}
+{"id": "SYMP:0000076", "label": "listlessness"}
+{"id": "SYMP:0000077", "label": "obsolete localized cutaneous lesions"}
+{"id": "SYMP:0000078", "label": "obsolete loose droppings"}
+{"id": "SYMP:0000079", "label": "coordination symptom"}
+{"id": "SYMP:0000080", "label": "obsolete loss of coordination"}
+{"id": "SYMP:0000081", "label": "obsolete low grade fever"}
+{"id": "SYMP:0000082", "label": "lesions in lung"}
+{"id": "SYMP:0000083", "label": "lymphangitis"}
+{"id": "SYMP:0000084", "label": "lymphoblastoma"}
+{"id": "SYMP:0000085", "label": "obsolete lymphocytic hyperplasia"}
+{"id": "SYMP:0000086", "label": "lymphopenia"}
+{"id": "SYMP:0000087", "label": "massive hepatic necrosis"}
+{"id": "SYMP:0000088", "label": "obsolete massive lymphadenopathy"}
+{"id": "SYMP:0000089", "label": "meningoencephalitis"}
+{"id": "SYMP:0000090", "label": "encephalitis"}
+{"id": "SYMP:0000091", "label": "mild encephalitis"}
+{"id": "SYMP:0000092", "label": "skin lesion"}
+{"id": "SYMP:0000093", "label": "muscle cramp"}
+{"id": "SYMP:0000094", "label": "muscle weakness"}
+{"id": "SYMP:0000095", "label": "myocarditis"}
+{"id": "SYMP:0000096", "label": "obsolete nasal discharge"}
+{"id": "SYMP:0000097", "label": "obsolete neck swelling"}
+{"id": "SYMP:0000098", "label": "nephritis"}
+{"id": "SYMP:0000099", "label": "pain"}
+{"id": "SYMP:0000100", "label": "lesions in pancreas"}
+{"id": "SYMP:0000101", "label": "obsolete partial paralysis"}
+{"id": "SYMP:0000102", "label": "peritonitis"}
+{"id": "SYMP:0000103", "label": "obsolete persistent lymphocytosis"}
+{"id": "SYMP:0000104", "label": "obsolete petechial hemorrhages"}
+{"id": "SYMP:0000105", "label": "obsolete photosensitivity"}
+{"id": "SYMP:0000106", "label": "plasmacytosis"}
+{"id": "SYMP:0000107", "label": "pleural effusion"}
+{"id": "SYMP:0000108", "label": "obsolete portal hepatitis"}
+{"id": "SYMP:0000109", "label": "mouth papules"}
+{"id": "SYMP:0000110", "label": "obsolete proliferative mouth papules"}
+{"id": "SYMP:0000111", "label": "obsolete proliferative skin lesions"}
+{"id": "SYMP:0000112", "label": "tracheitis"}
+{"id": "SYMP:0000113", "label": "obsolete proliferative tracheitis"}
+{"id": "SYMP:0000114", "label": "thrombocytopenia"}
+{"id": "SYMP:0000115", "label": "obsolete prolonged thrombocytopenia"}
+{"id": "SYMP:0000116", "label": "prostration"}
+{"id": "SYMP:0000117", "label": "obsolete pustular skin lesions"}
+{"id": "SYMP:0000118", "label": "rales"}
+{"id": "SYMP:0000119", "label": "obsolete reddening"}
+{"id": "SYMP:0000120", "label": "obsolete retinal inflammation"}
+{"id": "SYMP:0000121", "label": "obsolete rhinitis"}
+{"id": "SYMP:0000122", "label": "obsolete salivary gland swelling"}
+{"id": "SYMP:0000123", "label": "obsolete sclerodermoid plaques"}
+{"id": "SYMP:0000124", "label": "seizure"}
+{"id": "SYMP:0000125", "label": "liver inflammation"}
+{"id": "SYMP:0000126", "label": "obsolete self-limiting liver inflammation"}
+{"id": "SYMP:0000127", "label": "severe backache"}
+{"id": "SYMP:0000128", "label": "conjunctivitis"}
+{"id": "SYMP:0000129", "label": "severe conjunctivitis"}
+{"id": "SYMP:0000130", "label": "severe headache"}
+{"id": "SYMP:0000131", "label": "severe joint pain"}
+{"id": "SYMP:0000132", "label": "necrosis"}
+{"id": "SYMP:0000133", "label": "severe necrosis"}
+{"id": "SYMP:0000134", "label": "sinusitis"}
+{"id": "SYMP:0000135", "label": "obsolete skin papules"}
+{"id": "SYMP:0000136", "label": "skin ulcer"}
+{"id": "SYMP:0000137", "label": "obsolete slight cough"}
+{"id": "SYMP:0000138", "label": "obsolete slight pyrexia"}
+{"id": "SYMP:0000139", "label": "sneezing"}
+{"id": "SYMP:0000140", "label": "obsolete spastic paralysis"}
+{"id": "SYMP:0000141", "label": "spasticity"}
+{"id": "SYMP:0000142", "label": "obsolete spleen hemorrhages"}
+{"id": "SYMP:0000143", "label": "obsolete spleen infiltrates"}
+{"id": "SYMP:0000144", "label": "obsolete bronchopneumonia"}
+{"id": "SYMP:0000145", "label": "obsolete splitting of tissues"}
+{"id": "SYMP:0000146", "label": "feces and droppings symptom"}
+{"id": "SYMP:0000147", "label": "steatorrhea"}
+{"id": "SYMP:0000148", "label": "obsolete sudden onset of fever"}
+{"id": "SYMP:0000149", "label": "obsolete sudden onset of severe chills"}
+{"id": "SYMP:0000150", "label": "obsolete swollen cervical lymphnodes"}
+{"id": "SYMP:0000151", "label": "obsolete systemic infection"}
+{"id": "SYMP:0000152", "label": "obsolete systemic necrosis"}
+{"id": "SYMP:0000153", "label": "vasculitis"}
+{"id": "SYMP:0000154", "label": "obsolete systemic vasculitis"}
+{"id": "SYMP:0000155", "label": "obsolete tarry droppings"}
+{"id": "SYMP:0000156", "label": "thirst"}
+{"id": "SYMP:0000157", "label": "thymus symptom"}
+{"id": "SYMP:0000158", "label": "spleen symptom"}
+{"id": "SYMP:0000159", "label": "obsolete thymus atrophy"}
+{"id": "SYMP:0000160", "label": "tracheobronchitis"}
+{"id": "SYMP:0000161", "label": "obsolete transient fever"}
+{"id": "SYMP:0000162", "label": "tremor"}
+{"id": "SYMP:0000163", "label": "obsolete ulcerative dermal vesicles"}
+{"id": "SYMP:0000164", "label": "incoordination"}
+{"id": "SYMP:0000165", "label": "obsolete upper respiratory distress"}
+{"id": "SYMP:0000166", "label": "obsolete vascular lesions"}
+{"id": "SYMP:0000167", "label": "obsolete vascular necrosis"}
+{"id": "SYMP:0000168", "label": "obsolete vein swelling"}
+{"id": "SYMP:0000169", "label": "obsolete vesicles on feet"}
+{"id": "SYMP:0000170", "label": "obsolete vesicles on hoof corona"}
+{"id": "SYMP:0000171", "label": "obsolete vesicles on mouth"}
+{"id": "SYMP:0000172", "label": "obsolete vesicles on teats"}
+{"id": "SYMP:0000173", "label": "obsolete vesicular lesions on lip border"}
+{"id": "SYMP:0000174", "label": "wasting"}
+{"id": "SYMP:0000175", "label": "obsolete watery diarrhea"}
+{"id": "SYMP:0000176", "label": "obsolete watery ocular discharge"}
+{"id": "SYMP:0000177", "label": "weakness"}
+{"id": "SYMP:0000178", "label": "weight loss"}
+{"id": "SYMP:0000179", "label": "obsolete wet droppings"}
+{"id": "SYMP:0000180", "label": "liver symptom"}
+{"id": "SYMP:0000181", "label": "obsolete yellow liver"}
+{"id": "SYMP:0000182", "label": "bubo"}
+{"id": "SYMP:0000183", "label": "muscle symptom"}
+{"id": "SYMP:0000184", "label": "change in skin color"}
+{"id": "SYMP:0000185", "label": "weariness"}
+{"id": "SYMP:0000186", "label": "exhaustion"}
+{"id": "SYMP:0000187", "label": "tiredness"}
+{"id": "SYMP:0000188", "label": "abdominal discomfort"}
+{"id": "SYMP:0000189", "label": "postural reaction"}
+{"id": "SYMP:0000190", "label": "wheelbarrowing"}
+{"id": "SYMP:0000191", "label": "obsolete hemistanding"}
+{"id": "SYMP:0000192", "label": "obsolete hemiwalking"}
+{"id": "SYMP:0000193", "label": "hopping"}
+{"id": "SYMP:0000194", "label": "conscious proprioception"}
+{"id": "SYMP:0000195", "label": "abnormal hemiwalking hemistanding"}
+{"id": "SYMP:0000196", "label": "reproductive system symptom"}
+{"id": "SYMP:0000197", "label": "abortion"}
+{"id": "SYMP:0000198", "label": "miscarriage"}
+{"id": "SYMP:0000199", "label": "spontaneous abortion"}
+{"id": "SYMP:0000200", "label": "acute arthritis"}
+{"id": "SYMP:0000201", "label": "acute meningoencephalitis"}
+{"id": "SYMP:0000202", "label": "acute painful vision loss"}
+{"id": "SYMP:0000203", "label": "obsolete acute respiratory distress"}
+{"id": "SYMP:0000204", "label": "obsolete acute suppurative lesions"}
+{"id": "SYMP:0000205", "label": "salivary gland symptom"}
+{"id": "SYMP:0000206", "label": "acute suppurative parotiditis"}
+{"id": "SYMP:0000207", "label": "afebrile"}
+{"id": "SYMP:0000208", "label": "anemia"}
+{"id": "SYMP:0000209", "label": "ischemia"}
+{"id": "SYMP:0000210", "label": "photophobia"}
+{"id": "SYMP:0000211", "label": "asthenopia"}
+{"id": "SYMP:0000212", "label": "eye strain"}
+{"id": "SYMP:0000213", "label": "agraphia"}
+{"id": "SYMP:0000214", "label": "anomia"}
+{"id": "SYMP:0000215", "label": "inability to comprehend speech"}
+{"id": "SYMP:0000216", "label": "inability to speak"}
+{"id": "SYMP:0000217", "label": "inability to form words"}
+{"id": "SYMP:0000218", "label": "poor enunciation"}
+{"id": "SYMP:0000219", "label": "receptive aphasia"}
+{"id": "SYMP:0000220", "label": "areflexia"}
+{"id": "SYMP:0000221", "label": "absence of knee jerk reflex"}
+{"id": "SYMP:0000222", "label": "limb weakness"}
+{"id": "SYMP:0000223", "label": "arm weakness"}
+{"id": "SYMP:0000224", "label": "leg weakness"}
+{"id": "SYMP:0000225", "label": "asthenia"}
+{"id": "SYMP:0000226", "label": "atrial fibrillation"}
+{"id": "SYMP:0000227", "label": "blood vessel infection"}
+{"id": "SYMP:0000228", "label": "hemorrhagic diarrhea"}
+{"id": "SYMP:0000229", "label": "bloody stool"}
+{"id": "SYMP:0000230", "label": "body ache"}
+{"id": "SYMP:0000231", "label": "bradycardia"}
+{"id": "SYMP:0000232", "label": "bronchiolitis"}
+{"id": "SYMP:0000233", "label": "inability to think clearly"}
+{"id": "SYMP:0000234", "label": "cloudy cornea"}
+{"id": "SYMP:0000235", "label": "colic"}
+{"id": "SYMP:0000236", "label": "colicky pain"}
+{"id": "SYMP:0000237", "label": "congestion"}
+{"id": "SYMP:0000238", "label": "continuous profuse salivation"}
+{"id": "SYMP:0000239", "label": "cornea symptom"}
+{"id": "SYMP:0000240", "label": "corneal opacity"}
+{"id": "SYMP:0000241", "label": "corneal ulcers"}
+{"id": "SYMP:0000242", "label": "cough with bloody sputum"}
+{"id": "SYMP:0000243", "label": "cyclic fever"}
+{"id": "SYMP:0000244", "label": "alteration of appetite"}
+{"id": "SYMP:0000245", "label": "decreased appetite"}
+{"id": "SYMP:0000246", "label": "increased appetite"}
+{"id": "SYMP:0000247", "label": "proprioception symptom"}
+{"id": "SYMP:0000248", "label": "decreased conscious proprioception"}
+{"id": "SYMP:0000249", "label": "reflex symptom"}
+{"id": "SYMP:0000250", "label": "decreased flexor withdrawal reflex"}
+{"id": "SYMP:0000251", "label": "dermal abscess"}
+{"id": "SYMP:0000252", "label": "diffuse rash"}
+{"id": "SYMP:0000253", "label": "anisocoria"}
+{"id": "SYMP:0000254", "label": "dilated pupil"}
+{"id": "SYMP:0000255", "label": "diminished gastro-intestinal motility"}
+{"id": "SYMP:0000256", "label": "diminished gag reflex"}
+{"id": "SYMP:0000257", "label": "absent gag reflex"}
+{"id": "SYMP:0000258", "label": "double vision"}
+{"id": "SYMP:0000259", "label": "dry hacking cough"}
+{"id": "SYMP:0000260", "label": "dry mouth"}
+{"id": "SYMP:0000261", "label": "dry mucous membrane"}
+{"id": "SYMP:0000262", "label": "endocarditis"}
+{"id": "SYMP:0000263", "label": "epididymitis"}
+{"id": "SYMP:0000264", "label": "epididymorchitis"}
+{"id": "SYMP:0000265", "label": "obsolete absence seizure"}
+{"id": "SYMP:0000266", "label": "focal seizure"}
+{"id": "SYMP:0000267", "label": "generalized seizure"}
+{"id": "SYMP:0000268", "label": "tonic-clonic seizure"}
+{"id": "SYMP:0000269", "label": "epileptic seizure"}
+{"id": "SYMP:0000270", "label": "simple partial seizure"}
+{"id": "SYMP:0000271", "label": "complex partial seizure"}
+{"id": "SYMP:0000272", "label": "myoclonic seizure"}
+{"id": "SYMP:0000273", "label": "clonic seizure"}
+{"id": "SYMP:0000274", "label": "tonic seizure"}
+{"id": "SYMP:0000275", "label": "atonic seizure"}
+{"id": "SYMP:0000276", "label": "obsolete excess pericardial fluid"}
+{"id": "SYMP:0000277", "label": "excess salivation"}
+{"id": "SYMP:0000278", "label": "extensive ulcer"}
+{"id": "SYMP:0000279", "label": "extreme exhaustion"}
+{"id": "SYMP:0000280", "label": "extreme fatigue"}
+{"id": "SYMP:0000281", "label": "eye discharge"}
+{"id": "SYMP:0000282", "label": "fixed dilated pupils"}
+{"id": "SYMP:0000283", "label": "facial paralysis"}
+{"id": "SYMP:0000284", "label": "fixed pupil"}
+{"id": "SYMP:0000285", "label": "flaccid paralysis"}
+{"id": "SYMP:0000286", "label": "obsolete floppy head"}
+{"id": "SYMP:0000287", "label": "arrhythmia"}
+{"id": "SYMP:0000288", "label": "obsolete fluctuation of heart rate"}
+{"id": "SYMP:0000289", "label": "eczema"}
+{"id": "SYMP:0000290", "label": "belching"}
+{"id": "SYMP:0000291", "label": "gas pain"}
+{"id": "SYMP:0000292", "label": "heart failure"}
+{"id": "SYMP:0000293", "label": "hemiparesis"}
+{"id": "SYMP:0000294", "label": "hemolysis"}
+{"id": "SYMP:0000295", "label": "hepatic abscess"}
+{"id": "SYMP:0000296", "label": "hepatic dysfunction"}
+{"id": "SYMP:0000297", "label": "hilar lymphadenitis"}
+{"id": "SYMP:0000298", "label": "hoarse voice"}
+{"id": "SYMP:0000299", "label": "hyperemia"}
+{"id": "SYMP:0000300", "label": "hyperesthesia"}
+{"id": "SYMP:0000301", "label": "hypopyon"}
+{"id": "SYMP:0000302", "label": "hypothermia"}
+{"id": "SYMP:0000303", "label": "hypoxemia"}
+{"id": "SYMP:0000304", "label": "impaired coordination"}
+{"id": "SYMP:0000305", "label": "impaired gag reflex"}
+{"id": "SYMP:0000306", "label": "inability to feed"}
+{"id": "SYMP:0000307", "label": "inibility to stand"}
+{"id": "SYMP:0000308", "label": "inability to swallow"}
+{"id": "SYMP:0000309", "label": "loss of appetite"}
+{"id": "SYMP:0000310", "label": "inflamed eyes"}
+{"id": "SYMP:0000311", "label": "intestinal hypermotility"}
+{"id": "SYMP:0000312", "label": "joint symptom"}
+{"id": "SYMP:0000313", "label": "joint inflammation"}
+{"id": "SYMP:0000314", "label": "keratitis"}
+{"id": "SYMP:0000315", "label": "lateroventral deviation of the head"}
+{"id": "SYMP:0000316", "label": "leg cramp"}
+{"id": "SYMP:0000317", "label": "obsolete leukopenia"}
+{"id": "SYMP:0000318", "label": "loss of balance"}
+{"id": "SYMP:0000319", "label": "loss of tendon reflex"}
+{"id": "SYMP:0000320", "label": "vision symptom"}
+{"id": "SYMP:0000321", "label": "loss of vision"}
+{"id": "SYMP:0000322", "label": "low birth weight"}
+{"id": "SYMP:0000323", "label": "melena"}
+{"id": "SYMP:0000324", "label": "bronchitis"}
+{"id": "SYMP:0000325", "label": "mild bronchitis"}
+{"id": "SYMP:0000326", "label": "mild hypotension"}
+{"id": "SYMP:0000327", "label": "tetanic convulsion"}
+{"id": "SYMP:0000328", "label": "mild tetanic convulsion"}
+{"id": "SYMP:0000329", "label": "motor weakness"}
+{"id": "SYMP:0000330", "label": "mouth sore"}
+{"id": "SYMP:0000331", "label": "muscle ache"}
+{"id": "SYMP:0000332", "label": "muscle soreness"}
+{"id": "SYMP:0000333", "label": "muscle tenderness"}
+{"id": "SYMP:0000334", "label": "muscle necrosis"}
+{"id": "SYMP:0000335", "label": "neck weakness"}
+{"id": "SYMP:0000336", "label": "neurological dysfunction"}
+{"id": "SYMP:0000337", "label": "night sweats"}
+{"id": "SYMP:0000338", "label": "nystagmus"}
+{"id": "SYMP:0000339", "label": "occasional diplopia"}
+{"id": "SYMP:0000340", "label": "limb edema"}
+{"id": "SYMP:0000341", "label": "obsolete ophthalmoplegia"}
+{"id": "SYMP:0000342", "label": "slurred speech"}
+{"id": "SYMP:0000343", "label": "painful lymph glands"}
+{"id": "SYMP:0000344", "label": "palpebral edema"}
+{"id": "SYMP:0000345", "label": "panting respiration"}
+{"id": "SYMP:0000346", "label": "papule"}
+{"id": "SYMP:0000347", "label": "lip paralysis"}
+{"id": "SYMP:0000348", "label": "throat muscle paralysis"}
+{"id": "SYMP:0000349", "label": "paraplegia"}
+{"id": "SYMP:0000350", "label": "parotid abscess"}
+{"id": "SYMP:0000351", "label": "obsolete partial paralysis of the limbs"}
+{"id": "SYMP:0000352", "label": "peripheral muscle weakness"}
+{"id": "SYMP:0000353", "label": "phlegm"}
+{"id": "SYMP:0000354", "label": "pneumonitis"}
+{"id": "SYMP:0000355", "label": "poor feeding"}
+{"id": "SYMP:0000356", "label": "phlebitis"}
+{"id": "SYMP:0000357", "label": "postphlebitic ulcer"}
+{"id": "SYMP:0000358", "label": "premature labor"}
+{"id": "SYMP:0000359", "label": "profound weakness"}
+{"id": "SYMP:0000360", "label": "emaciation"}
+{"id": "SYMP:0000361", "label": "progressive emaciation"}
+{"id": "SYMP:0000362", "label": "progressive prostration"}
+{"id": "SYMP:0000363", "label": "progressive weakness"}
+{"id": "SYMP:0000364", "label": "prostate symptom"}
+{"id": "SYMP:0000365", "label": "prostatic abscess"}
+{"id": "SYMP:0000366", "label": "prostatic infection"}
+{"id": "SYMP:0000367", "label": "proteinuria"}
+{"id": "SYMP:0000368", "label": "proximal paralysis of arm and leg"}
+{"id": "SYMP:0000369", "label": "ptosis"}
+{"id": "SYMP:0000370", "label": "renal abscess"}
+{"id": "SYMP:0000371", "label": "respiratory paralysis"}
+{"id": "SYMP:0000372", "label": "rhinorrhea"}
+{"id": "SYMP:0000373", "label": "salivation"}
+{"id": "SYMP:0000374", "label": "scrotal abscess"}
+{"id": "SYMP:0000375", "label": "severe abdominal cramp"}
+{"id": "SYMP:0000376", "label": "severe diarrhea"}
+{"id": "SYMP:0000377", "label": "obsolete mastitis"}
+{"id": "SYMP:0000378", "label": "obsolete severe mastitis"}
+{"id": "SYMP:0000379", "label": "severe myalgia"}
+{"id": "SYMP:0000380", "label": "obsolete severe pneumonia"}
+{"id": "SYMP:0000381", "label": "spleen abscess"}
+{"id": "SYMP:0000382", "label": "staggering gait"}
+{"id": "SYMP:0000383", "label": "stiff neck"}
+{"id": "SYMP:0000384", "label": "neck symptom"}
+{"id": "SYMP:0000385", "label": "throat symptom"}
+{"id": "SYMP:0000386", "label": "mouth symptom"}
+{"id": "SYMP:0000387", "label": "head symptom"}
+{"id": "SYMP:0000388", "label": "nose symptom"}
+{"id": "SYMP:0000389", "label": "stupor"}
+{"id": "SYMP:0000390", "label": "thyroid symptom"}
+{"id": "SYMP:0000391", "label": "thyroid abscesses"}
+{"id": "SYMP:0000392", "label": "ear symptom"}
+{"id": "SYMP:0000393", "label": "tinnitus"}
+{"id": "SYMP:0000394", "label": "muscle twitching"}
+{"id": "SYMP:0000395", "label": "facial muscle twitching"}
+{"id": "SYMP:0000396", "label": "mydriasis"}
+{"id": "SYMP:0000397", "label": "unreactive mydriasis"}
+{"id": "SYMP:0000398", "label": "vaginal discharge"}
+{"id": "SYMP:0000399", "label": "vertigo"}
+{"id": "SYMP:0000400", "label": "weak cry"}
+{"id": "SYMP:0000401", "label": "wobble"}
+{"id": "SYMP:0000402", "label": "cachexia"}
+{"id": "SYMP:0000403", "label": "weight gain"}
+{"id": "SYMP:0000404", "label": "dyspareunia"}
+{"id": "SYMP:0000405", "label": "vaginismus"}
+{"id": "SYMP:0000406", "label": "bruise"}
+{"id": "SYMP:0000407", "label": "syncope"}
+{"id": "SYMP:0000408", "label": "cataplexy"}
+{"id": "SYMP:0000409", "label": "hyperthermia"}
+{"id": "SYMP:0000410", "label": "neurological and physiological symptom"}
+{"id": "SYMP:0000411", "label": "infant symptom"}
+{"id": "SYMP:0000412", "label": "anxiety"}
+{"id": "SYMP:0000413", "label": "catatonia"}
+{"id": "SYMP:0000414", "label": "dysarthria"}
+{"id": "SYMP:0000415", "label": "amaurosis fugax"}
+{"id": "SYMP:0000416", "label": "amaurosis"}
+{"id": "SYMP:0000417", "label": "pupil symptom"}
+{"id": "SYMP:0000418", "label": "contracted pupil"}
+{"id": "SYMP:0000419", "label": "miosis"}
+{"id": "SYMP:0000420", "label": "bloating"}
+{"id": "SYMP:0000421", "label": "hematochezia"}
+{"id": "SYMP:0000422", "label": "dyspepsia"}
+{"id": "SYMP:0000423", "label": "pyrosis"}
+{"id": "SYMP:0000424", "label": "claudication"}
+{"id": "SYMP:0000425", "label": "reticulocytosis"}
+{"id": "SYMP:0000426", "label": "macrocytosis"}
+{"id": "SYMP:0000427", "label": "obsolete impotence"}
+{"id": "SYMP:0000428", "label": "hypoventilation"}
+{"id": "SYMP:0000429", "label": "bradypnea"}
+{"id": "SYMP:0000430", "label": "pleuritic chest pain"}
+{"id": "SYMP:0000431", "label": "sputum"}
+{"id": "SYMP:0000432", "label": "itching"}
+{"id": "SYMP:0000433", "label": "anasarca"}
+{"id": "SYMP:0000434", "label": "urticaria"}
+{"id": "SYMP:0000435", "label": "paresthesia"}
+{"id": "SYMP:0000436", "label": "abnormal vaginal bleeding"}
+{"id": "SYMP:0000437", "label": "earache"}
+{"id": "SYMP:0000438", "label": "toothache"}
+{"id": "SYMP:0000439", "label": "obsolete heartburn"}
+{"id": "SYMP:0000440", "label": "hair loss"}
+{"id": "SYMP:0000441", "label": "elbow pain"}
+{"id": "SYMP:0000442", "label": "knee pain"}
+{"id": "SYMP:0000443", "label": "shoulder pain"}
+{"id": "SYMP:0000444", "label": "nail discoloration"}
+{"id": "SYMP:0000445", "label": "obsolete faint"}
+{"id": "SYMP:0000446", "label": "bloodshot eye"}
+{"id": "SYMP:0000447", "label": "bloody sputum"}
+{"id": "SYMP:0000448", "label": "epistaxis"}
+{"id": "SYMP:0000449", "label": "cardiogenic shock"}
+{"id": "SYMP:0000450", "label": "shock"}
+{"id": "SYMP:0000451", "label": "septic shock"}
+{"id": "SYMP:0000452", "label": "abnormal sputum"}
+{"id": "SYMP:0000453", "label": "right upper quadrant abdominal rigidity"}
+{"id": "SYMP:0000454", "label": "abdominal rigidity"}
+{"id": "SYMP:0000455", "label": "abnormal weight gain"}
+{"id": "SYMP:0000456", "label": "left upper quadrant abdominal pain"}
+{"id": "SYMP:0000457", "label": "abdominal pain"}
+{"id": "SYMP:0000458", "label": "nausea"}
+{"id": "SYMP:0000459", "label": "digestive system symptom"}
+{"id": "SYMP:0000460", "label": "hepatomegaly"}
+{"id": "SYMP:0000461", "label": "abdominal symptom"}
+{"id": "SYMP:0000462", "label": "symptom"}
+{"id": "SYMP:0000463", "label": "lack of normal physiological development"}
+{"id": "SYMP:0000464", "label": "lack of expected normal physiological development in childhood"}
+{"id": "SYMP:0000465", "label": "failure to thrive"}
+{"id": "SYMP:0000466", "label": "delayed milestones"}
+{"id": "SYMP:0000467", "label": "right lower quadrant abdominal rigidity"}
+{"id": "SYMP:0000468", "label": "generalized abdominal rigidity"}
+{"id": "SYMP:0000469", "label": "epigastric abdominal rigidity"}
+{"id": "SYMP:0000470", "label": "left upper quadrant abdominal rigidity"}
+{"id": "SYMP:0000471", "label": "multiple sites abdominal rigidity"}
+{"id": "SYMP:0000472", "label": "early satiety"}
+{"id": "SYMP:0000473", "label": "nutrition, metabolism, and development symptom"}
+{"id": "SYMP:0000474", "label": "obsolete abnormal loss of weight and underweight"}
+{"id": "SYMP:0000475", "label": "underweight"}
+{"id": "SYMP:0000476", "label": "obsolete loss of weight"}
+{"id": "SYMP:0000477", "label": "epigastric abdominal swelling"}
+{"id": "SYMP:0000478", "label": "abdominal swelling"}
+{"id": "SYMP:0000479", "label": "abnormality of gait"}
+{"id": "SYMP:0000480", "label": "nervous system symptom"}
+{"id": "SYMP:0000481", "label": "persistent vegetative state"}
+{"id": "SYMP:0000482", "label": "alteration of consciousness"}
+{"id": "SYMP:0000483", "label": "left lower quadrant abdominal tenderness"}
+{"id": "SYMP:0000484", "label": "abdominal tenderness"}
+{"id": "SYMP:0000485", "label": "dysuria"}
+{"id": "SYMP:0000486", "label": "urinary system symptom"}
+{"id": "SYMP:0000487", "label": "rash"}
+{"id": "SYMP:0000488", "label": "skin and integumentary tissue symptom"}
+{"id": "SYMP:0000489", "label": "abnormal bowel sound"}
+{"id": "SYMP:0000490", "label": "multiple sites abdominal tenderness"}
+{"id": "SYMP:0000491", "label": "continuous leakage of urine"}
+{"id": "SYMP:0000492", "label": "urinary incontinence"}
+{"id": "SYMP:0000493", "label": "dysphagia"}
+{"id": "SYMP:0000494", "label": "renal colic"}
+{"id": "SYMP:0000495", "label": "urethral discharge"}
+{"id": "SYMP:0000496", "label": "epigastric abdominal tenderness"}
+{"id": "SYMP:0000497", "label": "periumbilic abdominal tenderness"}
+{"id": "SYMP:0000498", "label": "generalized abdominal tenderness"}
+{"id": "SYMP:0000499", "label": "right upper quadrant abdominal tenderness"}
+{"id": "SYMP:0000500", "label": "right lower quadrant abdominal tenderness"}
+{"id": "SYMP:0000501", "label": "left lower quadrant abdominal swelling"}
+{"id": "SYMP:0000502", "label": "mixed incontinence (female) (male)"}
+{"id": "SYMP:0000503", "label": "adult failure to thrive"}
+{"id": "SYMP:0000504", "label": "headache"}
+{"id": "SYMP:0000505", "label": "throat pain"}
+{"id": "SYMP:0000506", "label": "hemorrhage from throat"}
+{"id": "SYMP:0000507", "label": "head swelling"}
+{"id": "SYMP:0000508", "label": "aphasia"}
+{"id": "SYMP:0000509", "label": "flatulence"}
+{"id": "SYMP:0000510", "label": "pallor"}
+{"id": "SYMP:0000511", "label": "flushing"}
+{"id": "SYMP:0000512", "label": "male stress incontinence"}
+{"id": "SYMP:0000513", "label": "stridor"}
+{"id": "SYMP:0000514", "label": "respiratory system and chest symptom"}
+{"id": "SYMP:0000515", "label": "hiccough"}
+{"id": "SYMP:0000516", "label": "lump in chest"}
+{"id": "SYMP:0000517", "label": "hemoptysis"}
+{"id": "SYMP:0000518", "label": "generalized abdominal pain"}
+{"id": "SYMP:0000519", "label": "abnormal feces"}
+{"id": "SYMP:0000520", "label": "visible peristalsis"}
+{"id": "SYMP:0000521", "label": "enlargement of lymph nodes"}
+{"id": "SYMP:0000522", "label": "feeding difficulties and mismanagement"}
+{"id": "SYMP:0000523", "label": "anorexia"}
+{"id": "SYMP:0000524", "label": "polyphagia"}
+{"id": "SYMP:0000525", "label": "transient alteration of awareness"}
+{"id": "SYMP:0000526", "label": "ascites"}
+{"id": "SYMP:0000527", "label": "undiagnosed cardiac murmur"}
+{"id": "SYMP:0000528", "label": "cardiovascular system symptom"}
+{"id": "SYMP:0000529", "label": "tachycardia"}
+{"id": "SYMP:0000530", "label": "palpitation"}
+{"id": "SYMP:0000531", "label": "splenomegaly"}
+{"id": "SYMP:0000532", "label": "urge incontinence"}
+{"id": "SYMP:0000533", "label": "post-void dribbling"}
+{"id": "SYMP:0000534", "label": "spontaneous ecchymoses"}
+{"id": "SYMP:0000535", "label": "change in skin texture"}
+{"id": "SYMP:0000536", "label": "disturbance of skin sensation"}
+{"id": "SYMP:0000537", "label": "cyanosis"}
+{"id": "SYMP:0000538", "label": "edema"}
+{"id": "SYMP:0000539", "label": "jaundice"}
+{"id": "SYMP:0000540", "label": "painful respiration"}
+{"id": "SYMP:0000541", "label": "periumbilic abdominal swelling"}
+{"id": "SYMP:0000542", "label": "epigastric abdominal pain"}
+{"id": "SYMP:0000543", "label": "memory loss"}
+{"id": "SYMP:0000544", "label": "transient paralysis of limb"}
+{"id": "SYMP:0000545", "label": "multiple sites abdominal swelling"}
+{"id": "SYMP:0000546", "label": "right lower quadrant abdominal pain"}
+{"id": "SYMP:0000547", "label": "right upper quadrant abdominal pain"}
+{"id": "SYMP:0000548", "label": "right lower quadrant abdominal swelling"}
+{"id": "SYMP:0000549", "label": "generalized abdominal swelling"}
+{"id": "SYMP:0000550", "label": "clubbing of fingers"}
+{"id": "SYMP:0000551", "label": "disturbances of sensation of smell and taste"}
+{"id": "SYMP:0000552", "label": "meningismus"}
+{"id": "SYMP:0000553", "label": "neurologic neglect syndrome"}
+{"id": "SYMP:0000554", "label": "left lower quadrant abdominal rigidity"}
+{"id": "SYMP:0000555", "label": "left upper quadrant abdominal swelling"}
+{"id": "SYMP:0000556", "label": "localized superficial lump"}
+{"id": "SYMP:0000557", "label": "urinary retention"}
+{"id": "SYMP:0000558", "label": "incomplete bladder emptying"}
+{"id": "SYMP:0000559", "label": "voice disturbance"}
+{"id": "SYMP:0000560", "label": "polydipsia"}
+{"id": "SYMP:0000561", "label": "multiple sites abdominal pain"}
+{"id": "SYMP:0000562", "label": "right upper quadrant abdominal swelling"}
+{"id": "SYMP:0000563", "label": "urinary frequency"}
+{"id": "SYMP:0000564", "label": "nocturia"}
+{"id": "SYMP:0000565", "label": "polyuria"}
+{"id": "SYMP:0000566", "label": "sleep disturbance"}
+{"id": "SYMP:0000567", "label": "general symptom"}
+{"id": "SYMP:0000568", "label": "short stature"}
+{"id": "SYMP:0000569", "label": "oliguria"}
+{"id": "SYMP:0000570", "label": "diarrhea"}
+{"id": "SYMP:0000571", "label": "insomnia"}
+{"id": "SYMP:0000572", "label": "splitting of urinary stream"}
+{"id": "SYMP:0000573", "label": "urinary stream symptom"}
+{"id": "SYMP:0000574", "label": "aphonia"}
+{"id": "SYMP:0000575", "label": "precordial pain"}
+{"id": "SYMP:0000576", "label": "chest pain"}
+{"id": "SYMP:0000577", "label": "fussy infant"}
+{"id": "SYMP:0000578", "label": "incontinence without sensory awareness"}
+{"id": "SYMP:0000579", "label": "insomnia with sleep apnea"}
+{"id": "SYMP:0000580", "label": "dysfunctions associated with sleep stages"}
+{"id": "SYMP:0000581", "label": "sleep apnea"}
+{"id": "SYMP:0000582", "label": "hypersomnia"}
+{"id": "SYMP:0000583", "label": "hypersomnia with sleep apnea"}
+{"id": "SYMP:0000584", "label": "disruptions of 24-hour sleep-wake cycle"}
+{"id": "SYMP:0000585", "label": "sleep related movement disorder"}
+{"id": "SYMP:0000586", "label": "overflow incontinence"}
+{"id": "SYMP:0000587", "label": "abnormal chest sound"}
+{"id": "SYMP:0000588", "label": "extravasation of urine"}
+{"id": "SYMP:0000589", "label": "slowing of urinary stream"}
+{"id": "SYMP:0000590", "label": "urinary urgency"}
+{"id": "SYMP:0000591", "label": "left upper quadrant abdominal tenderness"}
+{"id": "SYMP:0000592", "label": "excessive crying of infant"}
+{"id": "SYMP:0000593", "label": "gangrene"}
+{"id": "SYMP:0000594", "label": "abnormal involuntary movement"}
+{"id": "SYMP:0000595", "label": "febrile convulsion"}
+{"id": "SYMP:0000596", "label": "convulsion"}
+{"id": "SYMP:0000597", "label": "head and neck symptom"}
+{"id": "SYMP:0000598", "label": "respiratory abnormality"}
+{"id": "SYMP:0000599", "label": "cheyne-stokes respiration"}
+{"id": "SYMP:0000600", "label": "apnea"}
+{"id": "SYMP:0000601", "label": "hyperventilation"}
+{"id": "SYMP:0000602", "label": "orthopnea"}
+{"id": "SYMP:0000603", "label": "tachypnea"}
+{"id": "SYMP:0000604", "label": "wheezing"}
+{"id": "SYMP:0000605", "label": "coma"}
+{"id": "SYMP:0000606", "label": "nocturnal enuresis"}
+{"id": "SYMP:0000607", "label": "hallucination"}
+{"id": "SYMP:0000608", "label": "syncope and collapse"}
+{"id": "SYMP:0000609", "label": "generalized hyperhidrosis"}
+{"id": "SYMP:0000610", "label": "dizziness"}
+{"id": "SYMP:0000611", "label": "periumbilic abdominal pain"}
+{"id": "SYMP:0000612", "label": "periumbilic abdominal rigidity"}
+{"id": "SYMP:0000613", "label": "fever"}
+{"id": "SYMP:0000614", "label": "cough"}
+{"id": "SYMP:0000615", "label": "obsolete lack of coordination"}
+{"id": "SYMP:0000616", "label": "loss of height"}
+{"id": "SYMP:0000617", "label": "torticollis"}
+{"id": "SYMP:0000618", "label": "abnormal posture"}
+{"id": "SYMP:0000619", "label": "tetany"}
+{"id": "SYMP:0000620", "label": "left lower quadrant abdominal pain"}
+{"id": "SYMP:0000621", "label": "alexia"}
+{"id": "SYMP:0000622", "label": "acute mesenteric lymphadenitis"}
+{"id": "SYMP:0000623", "label": "acute renal failure"}
+{"id": "SYMP:0000624", "label": "obsolete appendicitis"}
+{"id": "SYMP:0000625", "label": "conscious disturbance"}
+{"id": "SYMP:0000626", "label": "obsolete myalgia"}
+{"id": "SYMP:0000627", "label": "disturbed vision"}
+{"id": "SYMP:0000628", "label": "vision distortion"}
+{"id": "SYMP:0000629", "label": "exanthema"}
+{"id": "SYMP:0000630", "label": "frontal headache"}
+{"id": "SYMP:0000631", "label": "hemolytic anemia"}
+{"id": "SYMP:0000632", "label": "hip pain"}
+{"id": "SYMP:0000633", "label": "inflammatory low back pain"}
+{"id": "SYMP:0000634", "label": "leukocytosis"}
+{"id": "SYMP:0000635", "label": "low backache"}
+{"id": "SYMP:0000636", "label": "maculopapular rash"}
+{"id": "SYMP:0000637", "label": "opisthotonus"}
+{"id": "SYMP:0000638", "label": "papular rash"}
+{"id": "SYMP:0000639", "label": "rectorrhagia"}
+{"id": "SYMP:0000640", "label": "ankle rash"}
+{"id": "SYMP:0000641", "label": "renal involvement"}
+{"id": "SYMP:0000642", "label": "obsolete respiratory distress"}
+{"id": "SYMP:0000643", "label": "respiratory failure"}
+{"id": "SYMP:0000644", "label": "ruffled feather"}
+{"id": "SYMP:0000645", "label": "obsolete ankle swelling"}
+{"id": "SYMP:0000646", "label": "synovitis"}
+{"id": "SYMP:0000647", "label": "tache noire"}
+{"id": "SYMP:0000648", "label": "tenesmus"}
+{"id": "SYMP:0000649", "label": "terminal ileitis"}
+{"id": "SYMP:0000650", "label": "thick white exudate on tongue"}
+{"id": "SYMP:0000651", "label": "discharge"}
+{"id": "SYMP:0000652", "label": "wound discharge"}
+{"id": "SYMP:0000653", "label": "yellow dropping"}
+{"id": "SYMP:0000654", "label": "irritability"}
+{"id": "SYMP:0000655", "label": "mouth bleeding"}
+{"id": "SYMP:0000656", "label": "pale mucous membrane"}
+{"id": "SYMP:0000657", "label": "ischemic necrosis of jejunum"}
+{"id": "SYMP:0000658", "label": "extraocular muscles paralysis"}
+{"id": "SYMP:0000659", "label": "pareses"}
+{"id": "SYMP:0000660", "label": "purpuric rash"}
+{"id": "SYMP:0000661", "label": "recumbency"}
+{"id": "SYMP:0000662", "label": "shakes"}
+{"id": "SYMP:0000663", "label": "uncoordinated gait"}
+{"id": "SYMP:0000664", "label": "yellow exudate from nose"}
+{"id": "SYMP:0000665", "label": "yellow exudate from eyes"}
+{"id": "SYMP:0000666", "label": "abnormal behavior"}
+{"id": "SYMP:0000667", "label": "obsolete heart rhythm symptom"}
+{"id": "SYMP:0000668", "label": "obsolete abnormal heart rhythms"}
+{"id": "SYMP:0000669", "label": "abnormal hemistanding"}
+{"id": "SYMP:0000670", "label": "abnormal hemiwalking"}
+{"id": "SYMP:0000671", "label": "sudden onset of fever"}
+{"id": "SYMP:0000672", "label": "abscess"}
+{"id": "SYMP:0000673", "label": "bradykinesia"}
+{"id": "SYMP:0000674", "label": "acute cranial nerve dysfunction"}
+{"id": "SYMP:0000675", "label": "acute diarrhea"}
+{"id": "SYMP:0000676", "label": "acute enteritis"}
+{"id": "SYMP:0000677", "label": "acute gastroenteritis"}
+{"id": "SYMP:0000678", "label": "acute mental dysfunction"}
+{"id": "SYMP:0000679", "label": "acute dyspnea"}
+{"id": "SYMP:0000680", "label": "acute weight loss"}
+{"id": "SYMP:0000681", "label": "aggressive behavior"}
+{"id": "SYMP:0000682", "label": "altered mental status"}
+{"id": "SYMP:0000683", "label": "obsolete tachypnoea"}
+{"id": "SYMP:0000684", "label": "bifrontal headache"}
+{"id": "SYMP:0000685", "label": "brain cyst"}
+{"id": "SYMP:0000686", "label": "chronic cough"}
+{"id": "SYMP:0000687", "label": "obsolete chronic fatigue syndrome"}
+{"id": "SYMP:0000688", "label": "circling movement"}
+{"id": "SYMP:0000689", "label": "cramp"}
+{"id": "SYMP:0000690", "label": "cranial nerve palsies"}
+{"id": "SYMP:0000691", "label": "cytopenia"}
+{"id": "SYMP:0000692", "label": "low blood pressure"}
+{"id": "SYMP:0000693", "label": "decreased facial sensation"}
+{"id": "SYMP:0000694", "label": "decreased jaw tone"}
+{"id": "SYMP:0000695", "label": "decreased milk production"}
+{"id": "SYMP:0000696", "label": "decreased motor response"}
+{"id": "SYMP:0000697", "label": "decreased pharyngeal tone"}
+{"id": "SYMP:0000698", "label": "decreased sucking"}
+{"id": "SYMP:0000699", "label": "deltoid muscle weakness"}
+{"id": "SYMP:0000700", "label": "diminished spontaneous movement"}
+{"id": "SYMP:0000701", "label": "nasal discharge"}
+{"id": "SYMP:0000702", "label": "distended loops of intestines on rectal"}
+{"id": "SYMP:0000703", "label": "droopy ears"}
+{"id": "SYMP:0000704", "label": "dysphonia"}
+{"id": "SYMP:0000705", "label": "expressive aphasia"}
+{"id": "SYMP:0000706", "label": "facial weakness"}
+{"id": "SYMP:0000707", "label": "flaccid muscle tone"}
+{"id": "SYMP:0000708", "label": "obsolete gas production"}
+{"id": "SYMP:0000709", "label": "granulomatous inflammation"}
+{"id": "SYMP:0000710", "label": "head pressing"}
+{"id": "SYMP:0000711", "label": "hind limb paralysis"}
+{"id": "SYMP:0000712", "label": "infertility"}
+{"id": "SYMP:0000713", "label": "inability to lie flat"}
+{"id": "SYMP:0000714", "label": "intraretinal hemorrhage"}
+{"id": "SYMP:0000715", "label": "skin desquamation"}
+{"id": "SYMP:0000716", "label": "swelling symptom"}
+{"id": "SYMP:0000717", "label": "leg swelling"}
+{"id": "SYMP:0000718", "label": "loss of consciousness"}
+{"id": "SYMP:0000719", "label": "memory impairment"}
+{"id": "SYMP:0000720", "label": "microangiopathic hemolytic anemia"}
+{"id": "SYMP:0000721", "label": "moderate anemia"}
+{"id": "SYMP:0000722", "label": "moderate conjuctival injection"}
+{"id": "SYMP:0000723", "label": "multiple abscesses"}
+{"id": "SYMP:0000724", "label": "multiple organ failure"}
+{"id": "SYMP:0000725", "label": "necrosis of jejunum"}
+{"id": "SYMP:0000726", "label": "painful reginal lymphadenopathy"}
+{"id": "SYMP:0000727", "label": "palate weakness"}
+{"id": "SYMP:0000728", "label": "partial hind limb paralysis"}
+{"id": "SYMP:0000729", "label": "pulmonary consolidation"}
+{"id": "SYMP:0000730", "label": "rapid respiration"}
+{"id": "SYMP:0000731", "label": "renal failure"}
+{"id": "SYMP:0000732", "label": "sudden ataxis"}
+{"id": "SYMP:0000733", "label": "sternocleidomastoid weakness"}
+{"id": "SYMP:0000734", "label": "obsolete stroke"}
+{"id": "SYMP:0000735", "label": "obsolete suppurative pneumonia"}
+{"id": "SYMP:0000736", "label": "lymph gland swelling"}
+{"id": "SYMP:0000737", "label": "respiratory tract mucosa ulcer"}
+{"id": "SYMP:0000738", "label": "yellowish green diarrhea"}
+{"id": "SYMP:0000739", "label": "bronchopulmonary bleeding"}
+{"id": "SYMP:0000740", "label": "genitourinary hemorrhage"}
+{"id": "SYMP:0000741", "label": "nasal bleeding"}
+{"id": "SYMP:0000742", "label": "gum bleeding"}
+{"id": "SYMP:0000743", "label": "blotchy red rash"}
+{"id": "SYMP:0000744", "label": "cervical lymphadenopathy"}
+{"id": "SYMP:0000745", "label": "change in body sensation"}
+{"id": "SYMP:0000746", "label": "enanthem"}
+{"id": "SYMP:0000747", "label": "extreme prostration"}
+{"id": "SYMP:0000748", "label": "facial edema"}
+{"id": "SYMP:0000749", "label": "hemodynamic instability"}
+{"id": "SYMP:0000750", "label": "hemorrhage into mucous membrane"}
+{"id": "SYMP:0000751", "label": "hemorrhage into skin"}
+{"id": "SYMP:0000752", "label": "herpetic lesion on upper lip"}
+{"id": "SYMP:0000753", "label": "intense anxiety"}
+{"id": "SYMP:0000754", "label": "severe chest pain"}
+{"id": "SYMP:0000755", "label": "intense toxemia"}
+{"id": "SYMP:0000756", "label": "menorrhagia"}
+{"id": "SYMP:0000757", "label": "mild conjunctivitis"}
+{"id": "SYMP:0000758", "label": "neurological alteration"}
+{"id": "SYMP:0000759", "label": "parotid pain"}
+{"id": "SYMP:0000760", "label": "petechiae"}
+{"id": "SYMP:0000761", "label": "extracellular fluid alteration"}
+{"id": "SYMP:0000762", "label": "excess lymphocytes in cerebrospinal fluid"}
+{"id": "SYMP:0000763", "label": "renal alteration"}
+{"id": "SYMP:0000764", "label": "retrobulbar pain"}
+{"id": "SYMP:0000765", "label": "sensory disturbance"}
+{"id": "SYMP:0000766", "label": "slow pulse"}
+{"id": "SYMP:0000767", "label": "subconjunctival bleeding"}
+{"id": "SYMP:0000768", "label": "testicular pain"}
+{"id": "SYMP:0000769", "label": "vascular alteration"}
+{"id": "SYMP:0000770", "label": "pelvic symptom"}
+{"id": "SYMP:0000771", "label": "pelvic swelling"}
+{"id": "SYMP:0000772", "label": "pelvic mass"}
+{"id": "SYMP:0000773", "label": "pelvic lump"}
+{"id": "SYMP:0000774", "label": "generalized pelvic lump"}
+{"id": "SYMP:0000775", "label": "right lower quadrant pelvic lump"}
+{"id": "SYMP:0000776", "label": "epigastric pelvic lump"}
+{"id": "SYMP:0000777", "label": "left lower quadrant pelvic lump"}
+{"id": "SYMP:0000778", "label": "left upper quadrant pelvic lump"}
+{"id": "SYMP:0000779", "label": "right upper quadrant pelvic lump"}
+{"id": "SYMP:0000780", "label": "multiple sites pelvic lump"}
+{"id": "SYMP:0000781", "label": "periumbilic pelvic lump"}
+{"id": "SYMP:0000782", "label": "right upper quadrant pelvic mass"}
+{"id": "SYMP:0000783", "label": "left lower quadrant pelvic mass"}
+{"id": "SYMP:0000784", "label": "epigastric pelvic mass"}
+{"id": "SYMP:0000785", "label": "left upper quadrant pelvic mass"}
+{"id": "SYMP:0000786", "label": "generalized pelvic mass"}
+{"id": "SYMP:0000787", "label": "periumbilic pelvic mass"}
+{"id": "SYMP:0000788", "label": "multiple sites pelvic mass"}
+{"id": "SYMP:0000789", "label": "right lower quadrant pelvic mass"}
+{"id": "SYMP:0000790", "label": "multiple sites pelvic swelling"}
+{"id": "SYMP:0000791", "label": "generalized pelvic swelling"}
+{"id": "SYMP:0000792", "label": "epigastric pelvic swelling"}
+{"id": "SYMP:0000793", "label": "left lower quadrant pelvic swelling"}
+{"id": "SYMP:0000794", "label": "left upper quadrant pelvic swelling"}
+{"id": "SYMP:0000795", "label": "periumbilic pelvic swelling"}
+{"id": "SYMP:0000796", "label": "right lower quadrant pelvic swelling"}
+{"id": "SYMP:0000797", "label": "right upper quadrant pelvic swelling"}
+{"id": "SYMP:0000798", "label": "abdominal mass"}
+{"id": "SYMP:0000799", "label": "abdominal lump"}
+{"id": "SYMP:0000800", "label": "left upper quadrant abdominal mass"}
+{"id": "SYMP:0000801", "label": "left lower quadrant abdominal mass"}
+{"id": "SYMP:0000802", "label": "epigastric abdominal mass"}
+{"id": "SYMP:0000803", "label": "multiple sites abdominal mass"}
+{"id": "SYMP:0000804", "label": "generalized abdominal mass"}
+{"id": "SYMP:0000805", "label": "periumbilic abdominal mass"}
+{"id": "SYMP:0000806", "label": "right lower quadrant abdominal mass"}
+{"id": "SYMP:0000807", "label": "right upper quadrant abdominal mass"}
+{"id": "SYMP:0000808", "label": "multiple sites abdominal lump"}
+{"id": "SYMP:0000809", "label": "periumbilic abdominal lump"}
+{"id": "SYMP:0000810", "label": "epigastric abdominal lump"}
+{"id": "SYMP:0000811", "label": "left upper quadrant abdominal lump"}
+{"id": "SYMP:0000812", "label": "right lower quadrant abdominal lump"}
+{"id": "SYMP:0000813", "label": "right upper quadrant abdominal lump"}
+{"id": "SYMP:0000814", "label": "generalized abdominal lump"}
+{"id": "SYMP:0000815", "label": "left lower quadrant abdominal lump"}
+{"id": "SYMP:0000816", "label": "dysfunctions associated with arousal from sleep"}
+{"id": "SYMP:0000817", "label": "inability to concentrate"}
+{"id": "SYMP:0000818", "label": "localized superficial mass"}
+{"id": "SYMP:0000819", "label": "localized superficial swelling"}
+{"id": "SYMP:0000820", "label": "mass in chest"}
+{"id": "SYMP:0000821", "label": "swelling in chest"}
+{"id": "SYMP:0000822", "label": "chronic enteritis"}
+{"id": "SYMP:0000823", "label": "sinus bradycardia"}
+{"id": "SYMP:0000824", "label": "junctional tachycardia"}
+{"id": "SYMP:0000825", "label": "paroxysmal tachycardia"}
+{"id": "SYMP:0000826", "label": "sinus tachycardia"}
+{"id": "SYMP:0000827", "label": "ventricular tachycardia"}
+{"id": "SYMP:0000828", "label": "sore eyes"}
+{"id": "SYMP:0000829", "label": "neck pain"}
+{"id": "SYMP:0000830", "label": "phantom pain"}
+{"id": "SYMP:0000831", "label": "nociceptive pain"}
+{"id": "SYMP:0000832", "label": "neuropathic pain"}
+{"id": "SYMP:0000833", "label": "visceral pain"}
+{"id": "SYMP:0000834", "label": "hypoesthesia"}
+{"id": "SYMP:0000835", "label": "hypoalgesia"}
+{"id": "SYMP:0000836", "label": "hyperalgesia"}
+{"id": "SYMP:0000837", "label": "chronic pain"}
+{"id": "SYMP:0000838", "label": "breakthrough pain"}
+{"id": "SYMP:0000839", "label": "acute pain"}
+{"id": "SYMP:0000840", "label": "allodynia"}
+{"id": "SYMP:0000841", "label": "reactive hyperemia"}
+{"id": "SYMP:0000842", "label": "active hyperemia"}
+{"id": "SYMP:0000843", "label": "functional hyperemia"}
+{"id": "SYMP:0000844", "label": "face hyperemia"}
+{"id": "SYMP:0000845", "label": "hyperemia of the neck"}
+{"id": "SYMP:0000846", "label": "chest hyperemia"}
+{"id": "SYMP:0000847", "label": "spastic paralysis"}
+{"id": "SYMP:0000848", "label": "motor paralysis"}
+{"id": "SYMP:0000849", "label": "stillbirth"}
+{"id": "SYMP:0000850", "label": "congested sclera"}
+{"id": "SYMP:0000851", "label": "gross hematuria"}
+{"id": "SYMP:0000852", "label": "anuria"}
+{"id": "SYMP:0000853", "label": "stress incontinence"}
+{"id": "SYMP:0000854", "label": "hypermenorrhea"}
+{"id": "SYMP:0000855", "label": "metrorrhagia"}
+{"id": "SYMP:0000856", "label": "subjective vertigo"}
+{"id": "SYMP:0000857", "label": "objective vertigo"}
+{"id": "SYMP:0000858", "label": "hypokinesia"}
+{"id": "SYMP:0000859", "label": "rigidity hypokinesia"}
+{"id": "SYMP:0000860", "label": "postural instability hypokinesia"}
+{"id": "SYMP:0000861", "label": "freezing hypokinesia"}
+{"id": "SYMP:0000862", "label": "referred pain"}
+{"id": "SYMP:0000863", "label": "facial tremor"}
+{"id": "SYMP:0000864", "label": "lesions in oropharynx"}
+{"id": "SYMP:0000865", "label": "lesions in mouth"}
+{"id": "SYMP:0000866", "label": "cervical edema"}
+{"id": "SYMP:0000867", "label": "gastrointestinal bleeding"}
+{"id": "SYMP:0000868", "label": "breathing problems"}
+{"id": "SYMP:0000869", "label": "nasal congestion"}
+{"id": "SYMP:0000870", "label": "icteric eyes"}
+{"id": "SYMP:0000871", "label": "icteric mucous membrane"}
+{"id": "SYMP:0000872", "label": "icteric skin"}
+{"id": "SYMP:0000873", "label": "otitis"}
+{"id": "SYMP:0000874", "label": "hematoma"}
+{"id": "SYMP:0000875", "label": "lameness"}
+{"id": "SYMP:0000876", "label": "pericardial effusion"}
+{"id": "SYMP:0000877", "label": "decreased tongue tone"}
+{"id": "SYMP:0000878", "label": "transient fever"}
+{"id": "SYMP:0000879", "label": "low-grade fever"}
+{"id": "SYMP:0000880", "label": "prolonged fever"}
+{"id": "SYMP:0000881", "label": "mild fever"}
+{"id": "SYMP:0000882", "label": "high fever"}
+{"id": "SYMP:0000883", "label": "very high fever"}
+{"id": "SYMP:0000884", "label": "obsolete recurrent fever"}
+{"id": "SYMP:0000885", "label": "obsolete severe temperature increase"}
+{"id": "SYMP:0000886", "label": "hyperpyrexia"}
+{"id": "SYMP:0000887", "label": "Pel-Epstein fever"}
+{"id": "SYMP:0000888", "label": "continuous fever"}
+{"id": "SYMP:0000889", "label": "remittent fever"}
+{"id": "SYMP:0000890", "label": "relapsing fever"}
+{"id": "SYMP:0000891", "label": "musculoskeletal system symptom"}
+{"id": "SYMP:0000892", "label": "sensation perception"}
+{"id": "SYMP:0000893", "label": "hypotensive"}
+{"id": "SYMP:0000894", "label": "cold clammy skin"}
+{"id": "SYMP:0000895", "label": "anaphylactic shock"}
+{"id": "SYMP:0000896", "label": "exophthalmos"}
+{"id": "SYMP:0000897", "label": "ventricular bradycardia"}
+{"id": "SYMP:0000898", "label": "cardiac fibrillation"}
+{"id": "SYMP:0000899", "label": "ventricular fibrillation"}
+{"id": "SYMP:0000900", "label": "allergic reaction"}
+{"id": "SYMP:0017795", "label": "hemic and immune system symptom"}
+{"id": "SYMP:0019138", "label": "immune system symptom"}
+{"id": "SYMP:0019139", "label": "hemic system symptom"}
+{"id": "SYMP:0019140", "label": "hematopoietic system symptom"}
+{"id": "SYMP:0019141", "label": "lymphatic system symptom"}
+{"id": "SYMP:0019142", "label": "lymphadenopathy"}
+{"id": "SYMP:0019143", "label": "coagulopathy"}
+{"id": "SYMP:0019144", "label": "microangiopathy"}
+{"id": "SYMP:0019145", "label": "vomiting"}
+{"id": "SYMP:0019146", "label": "hyponatremia"}
+{"id": "SYMP:0019147", "label": "hematemesis"}
+{"id": "SYMP:0019148", "label": "septicemia"}
+{"id": "SYMP:0019149", "label": "toxemia"}
+{"id": "SYMP:0019150", "label": "obsolete pharyngitis"}
+{"id": "SYMP:0019151", "label": "pulmonary edema"}
+{"id": "SYMP:0019152", "label": "diaphoresis"}
+{"id": "SYMP:0019153", "label": "dyspnea"}
+{"id": "SYMP:0019154", "label": "hemorrhagic mediastinitis"}
+{"id": "SYMP:0019155", "label": "lymphadenitis"}
+{"id": "SYMP:0019156", "label": "hematogenous"}
+{"id": "SYMP:0019158", "label": "eschar"}
+{"id": "SYMP:0019159", "label": "gastroenteritis"}
+{"id": "SYMP:0019160", "label": "boil"}
+{"id": "SYMP:0019161", "label": "muscle pain"}
+{"id": "SYMP:0019162", "label": "muscle tightness"}
+{"id": "SYMP:0019163", "label": "eye symptom"}
+{"id": "SYMP:0019164", "label": "excessive tearing"}
+{"id": "SYMP:0019165", "label": "light sensitivity"}
+{"id": "SYMP:0019166", "label": "obsolete ulcerations"}
+{"id": "SYMP:0019167", "label": "pustule"}
+{"id": "SYMP:0019168", "label": "obsolete pneumonia"}
+{"id": "SYMP:0019169", "label": "arthritis"}
+{"id": "SYMP:0019170", "label": "obsolete osteomyelitis"}
+{"id": "SYMP:0019171", "label": "spondylitis"}
+{"id": "SYMP:0019172", "label": "ocular lesion"}
+{"id": "SYMP:0019173", "label": "meningitis"}
+{"id": "SYMP:0019174", "label": "chills"}
+{"id": "SYMP:0019175", "label": "sweaty"}
+{"id": "SYMP:0019176", "label": "malaise"}
+{"id": "SYMP:0019177", "label": "fatigue"}
+{"id": "SYMP:0019178", "label": "necrotic lesion"}
+{"id": "SYMP:0019179", "label": "lightheadedness"}
+{"id": "SYMP:0019180", "label": "constipation"}
+{"id": "SYMP:0019181", "label": "hoarseness"}
+{"id": "SYMP:0019182", "label": "behavioral symptom"}
+{"id": "SYMP:0019183", "label": "hyperactivity"}
+{"id": "SYMP:0019184", "label": "limited attention"}
+{"id": "SYMP:0019185", "label": "communication difficulty"}
+{"id": "SYMP:0019186", "label": "obsessive interests"}
+{"id": "SYMP:0019187", "label": "repetitive behavior"}
+{"id": "SYMP:0019188", "label": "intracranial hemorrhage"}
+{"id": "SYMP:0019189", "label": "intracerebral hemorrhage"}
+{"id": "SYMP:0019190", "label": "subdural hemorrhage"}
+{"id": "SYMP:0020000", "label": "airway stenosis"}
+{"id": "SYMP:0020001", "label": "apthous ulcer"}
+{"id": "SYMP:0020002", "label": "anal abscess"}
+{"id": "SYMP:0020003", "label": "acholic stool"}
+{"id": "SYMP:0020004", "label": "ageusia"}
+{"id": "SYMP:0020005", "label": "acquired color vision deficiency"}
+{"id": "SYMP:0020006", "label": "agitation"}
+{"id": "SYMP:0020007", "label": "anterior scleral inflammation"}
+{"id": "SYMP:0020008", "label": "barking croup cough"}
+{"id": "SYMP:0020009", "label": "blind spot"}
+{"id": "SYMP:0020010", "label": "blurred vision with haloes"}
+{"id": "SYMP:0020011", "label": "bloody diarrhea"}
+{"id": "SYMP:0020012", "label": "weight symptom"}
+{"id": "SYMP:0020013", "label": "abnormal weight loss"}
+{"id": "SYMP:0020014", "label": "chronic weight loss"}
+{"id": "SYMP:0020015", "label": "obsolete gain of weight"}
+{"id": "SYMP:0020016", "label": "acute weight gain"}
+{"id": "SYMP:0020017", "label": "chronic weight gain"}
+{"id": "SYMP:0020018", "label": "overweight"}
+{"id": "SYMP:0020019", "label": "postnasal drainage"}
+{"id": "SYMP:0020020", "label": "abnormal scar formation"}
+{"id": "SYMP:0020021", "label": "abnormal wound healing"}
+{"id": "SYMP:0020022", "label": "bone conduction hyperacusis"}
+{"id": "SYMP:0020023", "label": "bone pain"}
+{"id": "SYMP:0020024", "label": "bronchospasm"}
+{"id": "SYMP:0020025", "label": "caseation"}
+{"id": "SYMP:0020026", "label": "chronic inflammation"}
+{"id": "SYMP:0020027", "label": "wet cough"}
+{"id": "SYMP:0020028", "label": "poor wound healing"}
+{"id": "SYMP:0020029", "label": "concentration difficulty"}
+{"id": "SYMP:0020030", "label": "patches of hair loss with a black dot pattern"}
+{"id": "SYMP:0020031", "label": "chest discomfort"}
+{"id": "SYMP:0020032", "label": "chest tightness"}
+{"id": "SYMP:0020033", "label": "paroxysmal cough"}
+{"id": "SYMP:0020034", "label": "conjunctiva symptom"}
+{"id": "SYMP:0020035", "label": "conjunctival congestion"}
+{"id": "SYMP:0020036", "label": "conjunctival degeneration"}
+{"id": "SYMP:0020037", "label": "conjunctival suffusion"}
+{"id": "SYMP:0020038", "label": "conjunctival swelling"}
+{"id": "SYMP:0020039", "label": "contracture"}
+{"id": "SYMP:0020040", "label": "hair symptom"}
+{"id": "SYMP:0020041", "label": "corkscrew hair"}
+{"id": "SYMP:0020042", "label": "corneal scarring"}
+{"id": "SYMP:0020043", "label": "dark urine"}
+{"id": "SYMP:0020044", "label": "hair shedding"}
+{"id": "SYMP:0020045", "label": "balance symptom"}
+{"id": "SYMP:0020046", "label": "feeding problem"}
+{"id": "SYMP:0020047", "label": "descending muscle paralysis"}
+{"id": "SYMP:0020048", "label": "skin peeling"}
+{"id": "SYMP:0020049", "label": "delayed psychomotor development"}
+{"id": "SYMP:0020050", "label": "decreased tearing"}
+{"id": "SYMP:0020051", "label": "decreased metabolism"}
+{"id": "SYMP:0020052", "label": "hand weakness"}
+{"id": "SYMP:0020053", "label": "mammary gland inflammation"}
+{"id": "SYMP:0020054", "label": "severe mammary gland inflammation"}
+{"id": "SYMP:0020055", "label": "pharynx inflammation"}
+{"id": "SYMP:0020056", "label": "cerebrovascular accident"}
+{"id": "SYMP:0020057", "label": "bronchiole inflammation"}
+{"id": "SYMP:0020058", "label": "severe bronchiole inflammation"}
+{"id": "SYMP:0020059", "label": "suppurative bronchiole inflammation"}
+{"id": "SYMP:0020060", "label": "low white blood cell count"}
+{"id": "SYMP:0020061", "label": "outlet dysfunction constipation"}
+{"id": "SYMP:0020062", "label": "soft tissue necrosis"}
+{"id": "SYMP:0020063", "label": "blood pressure"}
+{"id": "SYMP:0020064", "label": "high blood pressure"}
